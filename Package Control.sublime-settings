@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"FileDiffs",
+		"Fix Mac Path",
+		"Git",
+		"Gulp",
+		"HTML5",
+		"Indent XML",
+		"LESS",
+		"Local History",
+		"Markdown Extended",
+		"npm",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"Terminal",
+		"Theme - Afterglow",
+		"TrailingSpaces"
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"node_modules/*",
+		"bower_components/*",
+		".sass-cache/*"
+	],
+	"color_inactive_tabs": false,
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".git",
+		".hg",
+		".idea",
+		".svn",
+		"CVS"
+	],
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"status_bar_brighter": true,
+	"tabs_small": true,
+	"theme": "Afterglow.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
+}
