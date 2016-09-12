@@ -24,6 +24,7 @@
 	"folder_exclude_patterns":
 	[
 		".git",
+		".gradle",
 		".hg",
 		".idea",
 		".svn",
