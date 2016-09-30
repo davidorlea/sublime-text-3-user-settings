@@ -14,8 +14,6 @@
 		"*.swf",
 		"*.jar",
 		"*.zip",
-		"node_modules/*",
-		"bower_components/*",
 		".sass-cache/*"
 	],
 	"color_inactive_tabs": false,
@@ -28,6 +26,9 @@
 		".hg",
 		".idea",
 		".svn",
+		"build",
+		"bower_components",
+		"node_modules",
 		"CVS"
 	],
 	"font_size": 12,
