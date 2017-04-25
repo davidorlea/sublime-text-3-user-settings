@@ -16,9 +16,12 @@
 		"*.zip",
 		".sass-cache/*"
 	],
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_inactive_tabs": false,
 	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".git",
@@ -31,11 +34,15 @@
 		"node_modules",
 		"CVS"
 	],
+	"font_face": "Menlo",
 	"font_size": 12,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"rulers":
 	[
 		80,
