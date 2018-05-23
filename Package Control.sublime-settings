@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AngularJS",
+		"Babel",
 		"BracketHighlighter",
 		"ColorPicker",
 		"DocBlockr",

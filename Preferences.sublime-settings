@@ -39,6 +39,7 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
