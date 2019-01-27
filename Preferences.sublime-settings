@@ -29,7 +29,6 @@
 		".hg",
 		".idea",
 		".svn",
-		"build",
 		"bower_components",
 		"node_modules",
 		"CVS"
