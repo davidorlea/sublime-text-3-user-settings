@@ -27,7 +27,6 @@
 		".git",
 		".gradle",
 		".hg",
-		".idea",
 		".svn",
 		"bower_components",
 		"node_modules",
