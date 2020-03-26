@@ -28,6 +28,7 @@
 		".gradle",
 		".hg",
 		".svn",
+		".terragrunt-cache",
 		"bower_components",
 		"node_modules",
 		"CVS"
