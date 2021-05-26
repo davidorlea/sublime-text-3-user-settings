@@ -39,7 +39,7 @@
 	"ignored_packages":
 	[
 		"JavaScript",
-		"Vintage"
+		"Vintage",
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
@@ -52,5 +52,5 @@
 	"tabs_small": true,
 	"theme": "Afterglow.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
 }
