@@ -35,6 +35,7 @@
 	],
 	"font_face": "Menlo",
 	"font_size": 12,
+	"hardware_acceleration": "opengl",
 	"highlight_line": true,
 	"ignored_packages":
 	[
