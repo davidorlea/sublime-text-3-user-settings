@@ -16,7 +16,6 @@
 		"Fix Mac Path",
 		"GenerateUUID",
 		"Git",
-		"Gulp",
 		"HTML5",
 		"Indent XML",
 		"LESS",
@@ -32,6 +31,6 @@
 		"Terminal",
 		"Terraform",
 		"Theme - Afterglow",
-		"TrailingSpaces"
+		"TrailingSpaces",
 	],
 }
